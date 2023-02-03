@@ -3,9 +3,13 @@ h1 {
 }
 
 img {
-    float: right;
+    float: left;
 }
 
-.important {
-    color: lightseagreen
+.sidebar {
+    width: 30%;
+    float: right;
+    background-color: yellow;
+    border: 2px solid black;
+    padding: 4px;
 }
